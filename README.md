@@ -1,1 +1,1 @@
-# covid19_trend_analysis
+# covid19 trend analysis
